@@ -1,9 +1,11 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "",
-  "sha256": "",
+  "version": "1.1.1",
+  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.1.1/ECK-SATIS-v1.1.1-Setup-UNSIGNED.exe",
+  "sha256": "D2D849EE63A6B2F0ED596D730087E0FBA75B4504C653C2B169A81968426EB0B6",
   "mandatory": false,
   "releaseNotes": [
-    "ECK SATIŞ güncelleme altyapısı hazırlanıyor."
+    "Windows uygulama simgesinin küçük görünme sorunu düzeltildi.",
+    "Raporlar ekranına PDF satış raporu oluşturma özelliği eklendi.",
+    "PDF raporlarında ürünler Ürün, Adet ve Ciro olarak gruplanır."
   ]
 }
