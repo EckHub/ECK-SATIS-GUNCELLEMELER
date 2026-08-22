@@ -1,11 +1,16 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.1.1/ECK-SATIS-v1.1.1-Setup-UNSIGNED.exe",
-  "sha256": "D2D849EE63A6B2F0ED596D730087E0FBA75B4504C653C2B169A81968426EB0B6",
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.2.0/ECK-SATIS-v1.2.0-Setup-UNSIGNED.exe",
+  "sha256": "FFB7CD0206ECC42CDE36F12919A5713B34139A2B1231697C99D6070E0CCCB297",
   "mandatory": false,
   "releaseNotes": [
-    "Windows uygulama simgesinin küçük görünme sorunu düzeltildi.",
-    "Raporlar ekranına PDF satış raporu oluşturma özelliği eklendi.",
-    "PDF raporlarında ürünler Ürün, Adet ve Ciro olarak gruplanır."
+    "TOPLAM alanı daha okunabilir hale getirildi.",
+    "Alt durum çubuğundaki saat artık canlı güncelleniyor.",
+    "Raporlar Yönetici modu ile koruma altına alındı.",
+    "Hızlı Ürünler alanı kompakt 6 slot düzenine geçirildi.",
+    "Gündüz ve Gece tema seçenekleri eklendi.",
+    "Seçilen tema uygulama yeniden açıldığında korunuyor.",
+    "Hızlı Satış barkod okutma akışı iyileştirildi.",
+    "Kampanya alanı yenilendi."
   ]
 }
