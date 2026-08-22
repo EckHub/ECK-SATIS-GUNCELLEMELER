@@ -1,16 +1,12 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.2.0/ECK-SATIS-v1.2.0-Setup-UNSIGNED.exe",
-  "sha256": "FFB7CD0206ECC42CDE36F12919A5713B34139A2B1231697C99D6070E0CCCB297",
+  "version": "1.2.1",
+  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.2.1/ECK-SATIS-v1.2.1-Setup-UNSIGNED.exe",
+  "sha256": "A1692E576147C72A2E7E2B3E045675B9ADF73D364959CBE180F510454B123F1E",
   "mandatory": false,
   "releaseNotes": [
-    "TOPLAM alanı daha okunabilir hale getirildi.",
-    "Alt durum çubuğundaki saat artık canlı güncelleniyor.",
-    "Raporlar Yönetici modu ile koruma altına alındı.",
-    "Hızlı Ürünler alanı kompakt 6 slot düzenine geçirildi.",
-    "Gündüz ve Gece tema seçenekleri eklendi.",
-    "Seçilen tema uygulama yeniden açıldığında korunuyor.",
-    "Hızlı Satış barkod okutma akışı iyileştirildi.",
-    "Kampanya alanı yenilendi."
+    "Satış Geçmişi ekranındaki Toplam Ciro, Nakit ve Kart özetleri Yönetici moduna bağlandı.",
+    "Yönetici kapalıyken finansal özet değerleri gizleniyor.",
+    "Reklam alanı metni güncellendi.",
+    "Tema tercihi paketlenmiş uygulamada daha güvenli şekilde kalıcı hale getirildi."
   ]
 }
