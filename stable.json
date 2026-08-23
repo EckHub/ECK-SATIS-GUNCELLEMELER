@@ -1,12 +1,12 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.2.1/ECK-SATIS-v1.2.1-Setup-UNSIGNED.exe",
-  "sha256": "A1692E576147C72A2E7E2B3E045675B9ADF73D364959CBE180F510454B123F1E",
+  "version": "1.2.2",
+  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.2.2/ECK-SATIS-v1.2.2-Setup-UNSIGNED.exe",
+  "sha256": "361884D392E21625715A4940482E037FB53A5D301AF7239C1BF1B4DBC7EDFAC8",
   "mandatory": false,
   "releaseNotes": [
-    "Satış Geçmişi ekranındaki Toplam Ciro, Nakit ve Kart özetleri Yönetici moduna bağlandı.",
-    "Yönetici kapalıyken finansal özet değerleri gizleniyor.",
-    "Reklam alanı metni güncellendi.",
-    "Tema tercihi paketlenmiş uygulamada daha güvenli şekilde kalıcı hale getirildi."
+    "Sepetteki ürün satırlarının okunabilirliği artırıldı.",
+    "Ayarlar'a ürün alanı genişliği ve ürün adı boyutu seçenekleri eklendi.",
+    "Sepet görünümü tercihleri uygulama yeniden açıldığında korunuyor.",
+    "Güncelleme sırasında uygulamanın kapanıp otomatik yeniden açılacağı bilgisi eklendi."
   ]
 }
