@@ -1,12 +1,13 @@
 {
-  "version": "1.2.2",
-  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.2.2/ECK-SATIS-v1.2.2-Setup-UNSIGNED.exe",
-  "sha256": "361884D392E21625715A4940482E037FB53A5D301AF7239C1BF1B4DBC7EDFAC8",
+  "version": "1.3.0",
+  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.3.0/ECK-SATIS-v1.3.0-Setup-UNSIGNED.exe",
+  "sha256": "DC24FF3EC2E6153C0E6B41B1975CD930947BB3AE9D1EEA6AFB218701C1D51B3F",
   "mandatory": false,
   "releaseNotes": [
-    "Sepetteki ürün satırlarının okunabilirliği artırıldı.",
-    "Ayarlar'a ürün alanı genişliği ve ürün adı boyutu seçenekleri eklendi.",
-    "Sepet görünümü tercihleri uygulama yeniden açıldığında korunuyor.",
-    "Güncelleme sırasında uygulamanın kapanıp otomatik yeniden açılacağı bilgisi eklendi."
+    "Aynı anda üç ayrı sepetle çalışabilme özelliği eklendi.",
+    "F9 ile hızlıca yeni sepet açılabiliyor ve açık sepetler arasında klavyeyle geçiş yapılabiliyor.",
+    "Barkod okutulmadan önce adet seçilebilme özelliği eklendi.",
+    "Sepet satırlarının ve adet kontrollerinin okunabilirliği ve dokunmatik kullanımı geliştirildi.",
+    "Hızlı Satış alt barı daha sade ve hızlı kullanım odaklı yenilendi."
   ]
 }
