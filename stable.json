@@ -1,13 +1,13 @@
 {
-  "version": "1.3.0",
-  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.3.0/ECK-SATIS-v1.3.0-Setup-UNSIGNED.exe",
-  "sha256": "DC24FF3EC2E6153C0E6B41B1975CD930947BB3AE9D1EEA6AFB218701C1D51B3F",
+  "version": "1.4.0",
+  "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.4.0/ECK-SATIS-v1.4.0-Setup-UNSIGNED.exe",
+  "sha256": "C70D9A2142A2D2F2B28C0BE4FA0F87EE2B05C817EF75073F20724C1D6079E124",
   "mandatory": false,
   "releaseNotes": [
-    "Aynı anda üç ayrı sepetle çalışabilme özelliği eklendi.",
-    "F9 ile hızlıca yeni sepet açılabiliyor ve açık sepetler arasında klavyeyle geçiş yapılabiliyor.",
-    "Barkod okutulmadan önce adet seçilebilme özelliği eklendi.",
-    "Sepet satırlarının ve adet kontrollerinin okunabilirliği ve dokunmatik kullanımı geliştirildi.",
-    "Hızlı Satış alt barı daha sade ve hızlı kullanım odaklı yenilendi."
+    "Yönetici işlemleri için güvenli şifre oluşturma, değiştirme ve kurtarma desteği eklendi.",
+    "Lisans doğrulama ve cihaz yetkisi değişikliklerinin uygulamaya yansıması iyileştirildi.",
+    "Güncelleme ve önceki sürüm verileriyle uyumluluk altyapısı güçlendirildi.",
+    "Reklam bilgilendirme bağlantısından ECKHUB web sitesine güvenli erişim eklendi.",
+    "Genel kararlılık ve kullanıcı deneyimi iyileştirmeleri yapıldı."
   ]
 }
