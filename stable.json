@@ -2,7 +2,7 @@
   "version": "1.4.0",
   "downloadUrl": "https://github.com/EckHub/ECK-SATIS-GUNCELLEMELER/releases/download/v1.4.0/ECK-SATIS-v1.4.0-Setup-UNSIGNED.exe",
   "sha256": "C70D9A2142A2D2F2B28C0BE4FA0F87EE2B05C817EF75073F20724C1D6079E124",
-  "mandatory": false,
+  "mandatory": true,
   "releaseNotes": [
     "Yönetici işlemleri için güvenli şifre oluşturma, değiştirme ve kurtarma desteği eklendi.",
     "Lisans doğrulama ve cihaz yetkisi değişikliklerinin uygulamaya yansıması iyileştirildi.",
